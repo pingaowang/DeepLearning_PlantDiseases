@@ -99,3 +99,7 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+data/*
+ISIC2019_sep.py
+.DS_Store
